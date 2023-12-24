@@ -16,4 +16,4 @@ yarn start
 
 ## App screenshots
 
-![ScreenShot](/screenshots/8days-weather.png | width=100)
+<img src="/screenshots/8days-weather.png" width="100">
